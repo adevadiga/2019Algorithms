@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuyAndSellStocks",
+            "request": "launch",
+            "mainClass": "com.anoop.algo.array.BuyAndSellStocks",
+            "projectName": "anoop-algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TowSum",
+            "request": "launch",
+            "mainClass": "com.anoop.algo.array.TowSum",
+            "projectName": "anoop-algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.anoop.algo.App",
+            "projectName": "anoop-algo"
+        }
+    ]
+}
